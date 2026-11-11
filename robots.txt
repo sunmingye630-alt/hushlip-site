@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hushlip.shop/sitemap.xml
